@@ -1,0 +1,20 @@
+Programming : Its a set of instruction
+
+Categories of programming:
+1) High Level Programming (Python, JS, C#, C++, PHP, Java , Pascal , R )
+2) Low level programming (Assembly Language)
+3) Machine Language ( 1 & 0)
+
+
+Translation :
+1) Compiler
+2) 
+Interpretor
+3) Assembler
+
+
+Syntax : The way how u write a code
+
+Variable : It reserves a space on memory so that you can initialize any value to it
+
+String: Its a group of character
